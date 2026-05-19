@@ -17,7 +17,7 @@ body {
   left: 50%;
   top: 50%;
   border-radius: 0.6em;
-  box-shadow: 0 0.9em 2.8em rgba(86, 66, 0, 0.2);
+  box-shadow: 0 0.9em 2.8em rgba(180, 197, 202, 0.2);
 }
 .game-container {
   position: relative;
@@ -94,7 +94,7 @@ button {
 }
 .controls-container button {
   font-size: 1.3em;
-  box-shadow: 0 0.6em 2em rgba(86, 66, 0, 0.2);
+  box-shadow: 0 0.9em 2.8em rgba(180, 197, 202, 0.2);
 }
 .hide {
   display: none;
