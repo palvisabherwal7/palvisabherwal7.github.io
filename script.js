@@ -50,7 +50,7 @@ const timeGenerator = () => {
 //For calculating moves
 const movesCounter = () => {
   movesCount += 1;
-  moves.innerHTML = `<span>Moves:</span>${movesCount}`;
+  moves.innerHTML = `<span>Moves: </span>${movesCount}`;
 };
 
 //Pick random objects from the items array
@@ -157,7 +157,7 @@ startButton.addEventListener("click", () => {
   //Start timer
   interval = setInterval(timeGenerator, 1000);
   //initial moves
-  moves.innerHTML = `<span>Moves:</span> ${movesCount}`;
+  moves.innerHTML = `<span>Moves: </span> ${movesCount}`;
   initializer();
 });
 
