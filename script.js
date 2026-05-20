@@ -24,6 +24,21 @@ const items = [
   { name: "img10", image: "img10.JPEG" },
   { name: "img11", image: "img11.JPEG" },
   { name: "img12", image: "img12.JPEG" },
+  { name: "img13", image: "img13.JPEG" },
+  { name: "img14", image: "img14.JPEG" },
+  { name: "img15", image: "img15.JPEG" },
+  { name: "img16", image: "img16.JPEG" },
+  { name: "img17", image: "img17.JPEG" },
+  { name: "img18", image: "img18.JPEG" },
+  { name: "img19", image: "img19.JPEG" },
+  { name: "img20", image: "img20.JPEG" },
+  { name: "img21", image: "img21.JPEG" },
+  { name: "img22", image: "img22.JPEG" },
+  { name: "img23", image: "img23.JPEG" },
+  { name: "img24", image: "img24.JPEG" },
+  { name: "img25", image: "img25.JPEG" },
+  { name: "img26", image: "img26.JPEG" },
+  { name: "img27", image: "img27.JPEG" }
 ];
 
 //Initial Time
